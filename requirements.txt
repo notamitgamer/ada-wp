@@ -3,3 +3,4 @@ groq
 pytz
 google-generativeai
 Flask
+gunicorn
